@@ -1,4 +1,4 @@
-# Proyecto de Predicción Deportiva - SIKER-BET
+# Proyecto de Predicción Apuestas - SIKER-BET
 
 Este repositorio contiene un proyecto de predicción deportiva desarrollado para el cliente SIKER-BET. El objetivo principal es predecir resultados de deportes utilizando modelos de clasificación.
 
